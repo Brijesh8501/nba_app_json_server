@@ -1,0 +1,21 @@
+.featured_item
+{
+    position: relative;
+}
+.featured_image
+{
+    height:330px;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.featured_caption
+{
+    position: absolute;
+    color: #ffffff;
+    width:100%;
+    padding:20px;
+    font-weight: 500;
+    font-size:28px;
+    box-sizing: border-box;
+    bottom:0;
+}
